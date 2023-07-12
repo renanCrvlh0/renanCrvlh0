@@ -24,10 +24,10 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          cd your-repository
+          cd renanCrvlh0.git
           make install
 
       - name: Play Git Snake
         run: |
-          cd your-repository
+          cd renanCrvlh0.git
           make play
