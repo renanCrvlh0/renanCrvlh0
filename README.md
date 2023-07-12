@@ -26,4 +26,6 @@
   
 </div>
 
-![snake gif](https://github.com/renanCrvlh0/renanCrvlh0/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/renanCrvlh0/renanCrvlh0/output/snake.svg" alt="Snake animation" />
+
+###
