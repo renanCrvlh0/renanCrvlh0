@@ -6,21 +6,15 @@ on:
   schedule:
       # Será atualizado a cada 5 horas.
     - cron: "0 */5 * * *"
+permissions:
+  contents: write
 
-# Permite executar na na lista de Actions (utilizado para testes de build).
-  workflow_dispatch:
-
-# Regras
 jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pull-requests: write
+  scrape:
+    runs-on: ubuntu-latest    
     steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Check out this repo
+        uses: actions/checkout@v2
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
