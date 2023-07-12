@@ -20,7 +20,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/labeler@v4
+      - uses: actions/checkout@2
 
     # Repositorio que será utilizado para gerar os arquivos.
       - uses: Platane/snk@master
