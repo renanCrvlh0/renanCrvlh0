@@ -17,17 +17,17 @@ jobs:
       - name: Set Up Git Snake
         run: |
           git clone https://github.com/renanCrvlh0/renanCrvlh0.git
-          cd https://github.com/renanCrvlh0/renanCrvlh0.git
+          cd renanCrvlh0/renanCrvlh0
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           curl -sL https://github.com/gliderlabs/herokuish/releases/download/v0.5.2/herokuish_0.5.2_linux_x86_64.tgz | tar -xzC /usr/local/bin/
 
       - name: Install Dependencies
         run: |
-          cd https://github.com/renanCrvlh0/renanCrvlh0.git
+          cd renanCrvlh0/renanCrvlh0
           make install
 
       - name: Play Git Snake
         run: |
-          cd https://github.com/renanCrvlh0/renanCrvlh0.git
+          cd renanCrvlh0/renanCrvlh0
           make play
