@@ -18,16 +18,5 @@ jobs:
         run: |
           git clone https://github.com/renanCrvlh0/renanCrvlh0.git
           cd renanCrvlh0
-          git config --local user.email "rfac2000@hotmail.com"
-          git config --local user.name "Renan Carvalho"
-          curl -sL https://github.com/gliderlabs/herokuish/releases/download/v0.5.2/herokuish_0.5.2_linux_x86_64.tgz | tar -xzC /usr/local/bin/
-
-      - name: Install Dependencies
-        run: |
-          cd renanCrvlh0
-          make install
-
-      - name: Play Snake Game
-        run: |
-          cd renanCrvlh0
-          make play
+          
+          python snake_game.py
