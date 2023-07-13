@@ -12,23 +12,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=ffffff&multiline=true&width=1000&height=30&lines=Olá, eu sou o Renan👋" alt='Typing SVG' />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=ffffff&multiline=true&width=1000&height=50&lines=Olá, sou o Renan 👋" alt="Typing SVG" />
 
-###
+-----
+### 👩‍💻 Sobre mim
+<br>
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+- 📱 Atualmente me dedicando ao mundo Mobile
+- 📚 Estou estudando DART | FLUTTER | REACT |
+<br>
 
-###
-
-<p align="left">- 📱 Atualmente me dedicando ao mundo Mobile<br>- 📚 Estou estudando DART | FLUTTER | REACT | <br></p>
-
-###
-
-<h3 align="left">🛠 Linguagens e Ferramentas</h3>
-
-###
+-----
+### 🛠 Linguagens e Ferramentas
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -41,17 +37,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
 </div>
+<br>
+
+-----
 
 ###
 
-<h3 align="left">🔥 Estatísticas</h3>
+### 🔥 Estatísticas
+<br>
 
-###
+  <img align="center" src="https://streak-stats.demolab.com?user=renanCrvlh0&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
+<br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=renanCrvlh0&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
+-----
+  <div align="center">
+    
   ![snake gif](https://github.com/renanCrvlh0/renanCrvlh0/blob/output/github-contribution-grid-snake.svg)
-</div>
+    
+  </div>
 
-###
+
