@@ -46,7 +46,9 @@
 ### 🔥 Estatísticas
 <br>
 
-  <img align="center" src="https://streak-stats.demolab.com?user=renanCrvlh0&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=renanCrvlh0&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
   
 <br>
 
