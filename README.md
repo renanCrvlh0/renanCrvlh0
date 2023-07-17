@@ -53,10 +53,3 @@
 <br>
 
 -----
-  <div align="center">
-    
-  ![snake gif](https://github.com/renanCrvlh0/renanCrvlh0/blob/output/github-contribution-grid-snake.svg)
-    
-  </div>
-
-
